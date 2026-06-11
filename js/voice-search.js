@@ -1,3 +1,4 @@
+//esto lo modifiue yo, no es de la plantilla original
 
 const voiceSearch = document.querySelector(".voice-search");
 let microAceptado = false;
